@@ -29,7 +29,7 @@ function About() {
                     </div>
                 </div>
                 <p className='my-10 max-w-lg '>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas perferendis id, quod enim quas voluptatum nisi dolore. Assumenda voluptate expedita qui ipsa nihil, voluptatibus totam itaque dolores soluta reiciendis deleniti sunt harum distinctio numquam rerum delectus tempora hic. Possimus excepturi ut repudiandae aspernatur id enim?</p>
-                <button className='bg-blue-600 text-white px-8 py-2 rounded'>Learn more</button>
+                <button className='bg-blue-600 text-white px-8 py-2 rounded cursor-pointer'>Learn more</button>
             </div>
         </div>
     </div>
